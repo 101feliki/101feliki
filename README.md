@@ -11,15 +11,6 @@
 
 ---
 
-### 🙋‍♂️ About me
-
-- 💼 Software Developer at **Jasco Communications**
-- 🎓 Diploma in Computer Science — **Zetech University** (2025)
-- 🚀 Building **Stayvinci** — a SaaS platform for spas, lounges and short-stay hosts
-- 📜 Finishing the **freeCodeCamp Back-End Development & APIs** certification
-- 🌱 Interested in system design, clean code and refactoring
-
----
 
 ## 💻 Tech Stack:
 

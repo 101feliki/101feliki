@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Felix Kariuki</h1>
-<h3 align="center">Software Developer • Backend Engineer • Tech Entrepreneur — Nairobi, Kenya 🇰🇪</h3>
+<h1 align="center">Hi, I'm Felix Kariuki</h1>
+<h3 align="center">Software Developer • Backend Engineer • Tech Entrepreneur — Nairobi, Kenya</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+backends+that+scale;Refactoring+%E2%80%A2+System+Design;Turning+ideas+into+products" alt="Typing SVG" />
@@ -12,7 +12,7 @@
 ---
 
 
-## 💻 Tech Stack:
+## Tech Stack:
 
 ### Programming Languages:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -53,7 +53,7 @@
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -71,7 +71,7 @@
 
 ---
 
-## 📊 GitHub Stats:
+## GitHub Stats:
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=101feliki&show_icons=true&theme=radical&hide_border=true&count_private=true" />
@@ -81,19 +81,19 @@
   <img src="https://streak-stats.demolab.com?user=101feliki&theme=radical&hide_border=true" />
 </p>
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=101feliki&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </p>
 
-## ✍️ Random Dev Quote
+## Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
-## 🔝 Top Contributed Repo
+## Top Contributed Repo
 
 <p align="center">
   <a href="https://github.com/101feliki/stayvinci">

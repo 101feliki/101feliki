@@ -11,6 +11,7 @@
 
 <p align="center">
   <a href="https://gitlab.com/felixwachirakariuki"><img src="https://img.shields.io/badge/GitLab-felixwachirakariuki-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a>
+  <a href="https://www.linkedin.com/in/felixwachirakariuki/"><img src="https://img.shields.io/badge/LinkedIn-Felix_Kariuki-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---

@@ -9,6 +9,10 @@
   <img src="https://komarev.com/ghpvc/?username=101feliki&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
+<p align="center">
+  <a href="https://gitlab.com/felixwachirakariuki"><img src="https://img.shields.io/badge/GitLab-felixwachirakariuki-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a>
+</p>
+
 ---
 
 

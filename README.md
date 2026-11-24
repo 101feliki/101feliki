@@ -75,6 +75,24 @@
 
 ---
 
+## Integrations & Enterprise Work
+
+At Jasco Communications I build systems that plug into existing business software as third-party apps and services. These are private client projects, so the code is not public.
+
+![Freshdesk](https://img.shields.io/badge/Freshdesk-25C16F?style=for-the-badge&logo=freshdesk&logoColor=white)
+![Freshservice](https://img.shields.io/badge/Freshservice-0B5ED7?style=for-the-badge)
+![Yeastar](https://img.shields.io/badge/Yeastar_PBX-0066B3?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST_APIs_&_Webhooks-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+- **Helpdesk integrations (Freshdesk / Freshservice):** custom ticket forms, ticket sync services and SMS notifications connected to Freshdesk
+- **Telephony and contact centre (Yeastar PBX):** custom call reports, real-time call-centre wallboards, custom dial applications and dial monitoring
+- **Data sync services:** CRM to core banking (CBS) sync, call notes sync and other background services that keep separate systems in step
+- **ITSM tools:** email migration app and a deals registration app
+- **Business systems:** HR and leave management, dashboards and data hubs for clients in banking, SACCOs, insurance and agriculture
+
+---
+
 ## GitHub Stats:
 
 <p align="center">

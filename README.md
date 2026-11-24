@@ -58,12 +58,12 @@
 | Project | Description | Stack |
 |---|---|---|
 | [**Stayvinci**](https://github.com/101feliki/stayvinci) | SaaS platform for spas, lounges and short-stay hosts | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) |
-| [**Aegis**](https://github.com/101feliki/aegis) | Project built with Go | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) |
-| [**Customer Care System**](https://github.com/101feliki/customer-care-system) | Customer support / ticketing system | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) |
-| [**Fraud Detection System**](https://github.com/101feliki/fraud-detection-system) | Detects suspicious transactions | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+| [**Aegis**](https://github.com/101feliki/aegis) | Security research: maps an AI-driven pentest platform to build detection & defense services for Kenyan banks | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) |
+| [**Customer Care System**](https://github.com/101feliki/customer-care-system) | Customer care platform with a backend API and Vite frontend | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) |
+| [**Fraud Detection System**](https://github.com/101feliki/fraud-detection-system) | Plug-and-play fraud detection service for microinsurance claims, with an ML scoring service | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
 | [**Email Notification Service**](https://github.com/101feliki/simple-email-notification-service) | Outbound email notifications (Cloudflare DNS + Resend) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-| [**Bluevision Realtors**](https://github.com/101feliki/bluevision-realtors) | Real-estate listings website | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) |
-| [**Blokichain**](https://github.com/101feliki/blokichain) | Simple blockchain implementation | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+| [**Bluevision Realtors**](https://github.com/101feliki/bluevision-realtors) | Real-estate website built with React, TypeScript and Vite | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) |
+| [**Blokichain**](https://github.com/101feliki/blokichain) | Blockchain voting app with Solidity smart contracts, wallet login and AI vote analysis | ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
 | [**Java Logging System**](https://github.com/101feliki/java-logging-system) | Logging system in Java | ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) |
 | [**FCC Back-End Projects**](https://github.com/101feliki/fcc-backend-certification-projects) | freeCodeCamp Back-End & APIs certification projects | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) |
 

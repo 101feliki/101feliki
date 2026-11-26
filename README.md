@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Felix Kariuki</h1>
-<h3 align="center">Software Developer • Backend Engineer • Tech Entrepreneur — Nairobi, Kenya</h3>
+<h3 align="center">Backend &amp; DevOps Engineer • Tech Entrepreneur — Nairobi, Kenya</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+backends+that+scale;Refactoring+%E2%80%A2+System+Design;Turning+ideas+into+products" alt="Typing SVG" />
@@ -10,6 +10,8 @@
 </p>
 
 <p align="center">
+  <a href="https://101feliki.github.io"><img src="https://img.shields.io/badge/Portfolio-101feliki.github.io-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:felixwachirakariuki@gmail.com"><img src="https://img.shields.io/badge/Email-felixwachirakariuki%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://gitlab.com/felixwachirakariuki"><img src="https://img.shields.io/badge/GitLab-felixwachirakariuki-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a>
   <a href="https://www.linkedin.com/in/felixwachirakariuki/"><img src="https://img.shields.io/badge/LinkedIn-Felix_Kariuki-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxMTIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4%3D" alt="LinkedIn" /></a>
 </p>
@@ -42,8 +44,9 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-### Servers:
+### Servers & DevOps:
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Hosting & Cloud:
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
@@ -68,7 +71,7 @@
 | Project | Description | Stack |
 |---|---|---|
 | [**Stayvinci**](https://github.com/101feliki/stayvinci) | SaaS platform for spas, lounges and short-stay hosts | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) |
-| [**Aegis**](https://github.com/101feliki/aegis) | Security research: maps an AI-driven pentest platform to build detection & defense services for Kenyan banks | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) |
+| [**AEGIS**](https://github.com/101feliki/aegis) | Authorization-first, read-only security assessment and money-integrity watchdog (ledger, M-Pesa and tamper checks, tamper-evident audit log), plus a defence map of an AI-driven pentest platform for Kenyan banks | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) |
 | [**Customer Care System**](https://github.com/101feliki/customer-care-system) | Email and SMS notification platform with bulk campaigns, templates, roles and analytics | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) |
 | [**Fraud Detection System**](https://github.com/101feliki/fraud-detection-system) | Explainable fraud scoring for microinsurance claims with an analyst review dashboard | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
 | [**Bulk Email Sender**](https://github.com/101feliki/simple-email-notification-service) | Bulk follow-up email sender from Excel/CSV with batching, dry runs and send reports | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
@@ -88,6 +91,9 @@ At Jasco Communications I build systems that plug into existing business softwar
 ![Freshdesk](https://img.shields.io/badge/Freshdesk-25C16F?style=for-the-badge&logo=freshdesk&logoColor=white)
 ![Freshservice](https://img.shields.io/badge/Freshservice-0B5ED7?style=for-the-badge)
 ![Yeastar](https://img.shields.io/badge/Yeastar_PBX-0066B3?style=for-the-badge)
+![M-Pesa](https://img.shields.io/badge/M--Pesa-4CAF50?style=for-the-badge)
+![USSD](https://img.shields.io/badge/USSD-6E40C9?style=for-the-badge)
+![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs_&_Webhooks-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
@@ -96,6 +102,9 @@ At Jasco Communications I build systems that plug into existing business softwar
 - **Data sync services:** CRM to core banking (CBS) sync, call notes sync and other background services that keep separate systems in step
 - **ITSM tools:** email migration app and a deals registration app
 - **Business systems:** HR and leave management, dashboards and data hubs for clients in banking, SACCOs, insurance and agriculture
+- **Mobile money and USSD:** M-Pesa payments with reconciliation, and contributions to a USSD service for microinsurance
+
+Before that, as a Software Engineering Intern at **Birdview Microinsurance** (Nov 2025 – Jan 2026), I built a facial recognition attendance system for 50+ staff, financial transaction workflows with audit trails, a customer notification platform and an asset registry.
 
 ---
 
